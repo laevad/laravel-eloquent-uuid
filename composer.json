@@ -9,7 +9,7 @@
         "eloquent",
         "uuid"
     ],
-    "homepage": "https://github.com/enesirl/laravel-eloquent-uuid",
+    "homepage": "https://github.com/enesisrl/laravel-eloquent-uuid",
     "authors": [
         {
             "name": "Matthew Inamdar",
