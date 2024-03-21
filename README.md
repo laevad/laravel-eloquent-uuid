@@ -5,36 +5,6 @@
     ></a>
 </p>
 
-<p align="center">
-    <a href="https://github.com/goldspecdigital/laravel-eloquent-uuid"><img
-        alt="GitHub stars"
-        src="https://img.shields.io/github/stars/goldspecdigital/laravel-eloquent-uuid.svg?style=social"
-    ></a>
-</p>
-
-<p align="center">
-    <a href="https://github.com/goldspecdigital/laravel-eloquent-uuid/tags"><img
-        alt="GitHub tag (latest SemVer)"
-        src="https://img.shields.io/github/tag/goldspecdigital/laravel-eloquent-uuid.svg"
-    ></a>
-    <a href="https://github.com/goldspecdigital/laravel-eloquent-uuid/actions/workflows/tests.yml"><img
-        alt="Build status"
-        src="https://github.com/goldspecdigital/laravel-eloquent-uuid/actions/workflows/tests.yml/badge.svg?branch=master"
-    ></a>
-    <a href="https://packagist.org/packages/goldspecdigital/laravel-eloquent-uuid"><img
-        alt="Packagist"
-        src="https://img.shields.io/packagist/dt/goldspecdigital/laravel-eloquent-uuid.svg"
-    ></a>
-    <img
-        alt="PHP from Packagist"
-        src="https://img.shields.io/packagist/php-v/goldspecdigital/laravel-eloquent-uuid.svg"
-    >
-    <img
-        alt="Packagist"
-        src="https://img.shields.io/packagist/l/goldspecdigital/laravel-eloquent-uuid.svg"
-    >
-</p>
-
 ## Introduction
 
 A simple drop-in solution for providing UUID support for the IDs of your
