@@ -50,17 +50,24 @@ version of Laravel you have installed:
 
 | Laravel  | This package |
 |----------|--------------|
-| `v5.8.*` | `v1.*`       |
-| `v6.*`   | `v6.*`       |
-| `v7.*`   | `v7.*`       |
-| `v8.*`   | `v8.*`       |
-| `v9.*`   | `v9.*`       |
-| `v10.*`  | `v10.*`      |
+| `v11.*`  | `v11.*`      |
 
 You can install the package via composer:
 
+add to `composer.json`
+
+```sh
+"repositories": [
+    {
+        "type": "vcs",
+        "url": "https://github.com/enesisrl/laravel-eloquent-uuid"
+    }
+]
+```
+
+
 ```bash
-composer require goldspecdigital/laravel-eloquent-uuid:^10.0
+composer require enesisrl/laravel-eloquent-uuid
 ```
 
 ## Usage
